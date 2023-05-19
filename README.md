@@ -32,7 +32,7 @@ Ready to embark on this coding journey with me? huzaifanawaz367@gmail.com 💬<b
  <br />
  ![](https://github-readme-streak-stats.herokuapp.com/?user=LarsKhan&theme=dracula&hide_border=false)<br/>
 
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=LarsKhan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
 
