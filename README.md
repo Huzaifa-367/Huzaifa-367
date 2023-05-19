@@ -36,7 +36,7 @@ Ready to embark on this coding journey with me? huzaifanawaz367@gmail.com<br>�
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-![Visitor Count](https://profile-counter.glitch.me/LarsKhan/count.svg)
+![Visitor Count](<center>https://profile-counter.glitch.me/LarsKhan/count.svg</center>)
 
 
 ## 🗂️ Highlight Projects
