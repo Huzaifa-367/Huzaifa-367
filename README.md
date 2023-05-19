@@ -26,10 +26,10 @@ Ready to embark on this coding journey with me? huzaifanawaz367@gmail.com 💬<b
 #developer #coding #innovation #collaboration
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/M.Huzaifa367) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-huzaifa-h4w) 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/message/O6VCCOLIDHJRF1)
-[![Fiverr](https://img.shields.io/badge/fiverr-1DBF73.svg?logo=fiverr&logoColor=white)](https://fiverr.com/users/lars750/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg??style=flat&logo=Facebook&logoColor=white)](https://facebook.com/M.Huzaifa367) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg??style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-huzaifa-h4w) 
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg??style=flat&logo=whatsapp&logoColor=white)](https://wa.me/message/O6VCCOLIDHJRF1)
+[![Fiverr](https://img.shields.io/badge/fiverr-1DBF73.svg??style=flat&logo=fiverr&logoColor=white)](https://fiverr.com/users/lars750/)
 
 
 # 💻 Tech Stack:
@@ -38,7 +38,7 @@ Ready to embark on this coding journey with me? huzaifanawaz367@gmail.com 💬<b
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) 
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WordPress](https://img.shields.io/badge/Wordpress-21759B.svg??style=flat&logo=wordpress&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
