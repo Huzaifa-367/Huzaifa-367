@@ -4,11 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;,,,,,+This+is+Muhammad+Huzaifa....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+ <br />
+  <br />
+<img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
 # 💫 About Me:
 <div align="center">Passionate developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> | Problem-solver 💡 | Lifelong learner 📚 </div>
 <br />
- <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
+ 
   <br />
 
 I'm a dedicated developer with a strong passion for coding and a knack for finding innovative solutions. I love exploring new technologies and frameworks to create cutting-edge applications.
