@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate developer 🚀 | Problem-solver 💡 | Lifelong learner 📚
+<center>Passionate developer 🚀 | Problem-solver 💡 | Lifelong learner 📚 </center>
 
 Welcome to my GitHub profile! I'm a dedicated developer with a strong passion for coding and a knack for finding innovative solutions. I love exploring new technologies and frameworks to create cutting-edge applications.
 
@@ -7,7 +7,7 @@ Collaboration is key to my success. I thrive in team environments, leveraging co
 
 When I'm not coding, I enjoy immersing myself in nature and indulging in creative hobbies. Finding balance fuels my creativity and keeps me motivated.
 
-Ready to embark on this coding journey with me? huzaifanawaz367@gmail.com<br>💬 Let's connect and create groundbreaking solutions that make a difference. 🌟💻
+Ready to embark on this coding journey with me? huzaifanawaz367@gmail.com 💬<br> Let's connect and create groundbreaking solutions that make a difference. 🌟💻
 
 #developer #coding #innovation #collaboration
 
@@ -31,12 +31,12 @@ Ready to embark on this coding journey with me? huzaifanawaz367@gmail.com<br>�
 ![](https://github-contributor-stats.vercel.app/api?username=LarsKhan&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LarsKhan&icon=0&color=11)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=LarsKhan&icon=0&color=11)](https://visitcount.itsvg.in)-->
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-![Visitor Count](<center>https://profile-counter.glitch.me/LarsKhan/count.svg</center>)
+![Visitor Count](https://profile-counter.glitch.me/LarsKhan/count.svg)
 
 
 ## 🗂️ Highlight Projects
