@@ -33,16 +33,18 @@ Ready to embark on this coding journey with me? huzaifanawaz367@gmail.com<br>�
 ---
 [![](https://visitcount.itsvg.in/api?id=LarsKhan&icon=0&color=11)](https://visitcount.itsvg.in)
 
+![Visitor Count](https://profile-counter.glitch.me/LarsKhan/count.svg)
+
 
 ## 🗂️ Highlight Projects
 
 
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+<a href="https://github.com/LarsKhan/Dengue-Tracer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LarsKhan&repo=Dengue-Tracer&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Dengue-Tracer" />
 </a>
 
 
-<a href="https://github.com/Zhenye-Na/DA-RNN">
+<a href=https://github.com/LarsKhan/Dengue-Tracer-Api"">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LarsKhan&repo=Dengue-Tracer-Api&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Dengue-Tracer-Api" />
 </a>
 
