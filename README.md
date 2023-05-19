@@ -1,11 +1,11 @@
 # 💫 About Me:
-<div align="center">Passionate developer 🚀 | Problem-solver 💡 | Lifelong learner 📚 </div>
+<div align="center">Passionate developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> | Problem-solver 💡 | Lifelong learner 📚 </div>
 <br />
  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
 
-Welcome to my GitHub profile! I'm a dedicated developer with a strong passion for coding and a knack for finding innovative solutions. I love exploring new technologies and frameworks to create cutting-edge applications.
+I'm a dedicated developer with a strong passion for coding and a knack for finding innovative solutions. I love exploring new technologies and frameworks to create cutting-edge applications.
 
 Collaboration is key to my success. I thrive in team environments, leveraging collective intelligence to deliver exceptional results. Let's join forces and build something amazing together!
 
