@@ -53,7 +53,7 @@ Ready to embark on this coding journey with me? huzaifanawaz367@gmail.com 💬<b
 
 # 📊 GitHub Stats:
 
-  ![](https://github-readme-stats.vercel.app/api?username=LarsKhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)     &nbsp;&nbsp;&nbsp;&nbsp;   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LarsKhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+  ![](https://readmestats.999857.xyz/api?username=LarsKhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)     &nbsp;&nbsp;&nbsp;&nbsp;   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LarsKhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
  <br />
 
  ![](https://readmestats.999857.xyz/?user=LarsKhan&theme=dracula&hide_border=false)  
