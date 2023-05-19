@@ -45,6 +45,12 @@ Ready to embark on this coding journey with me? huzaifanawaz367@gmail.com 💬<b
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+
+<!-- IDES-->
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+
 # 📊 GitHub Stats:
 
   ![](https://github-readme-stats.vercel.app/api?username=LarsKhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)     &nbsp;&nbsp;&nbsp;&nbsp;   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LarsKhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
