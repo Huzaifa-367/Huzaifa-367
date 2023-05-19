@@ -1,5 +1,9 @@
 # 💫 About Me:
 <div align="center">Passionate developer 🚀 | Problem-solver 💡 | Lifelong learner 📚 </div>
+<br />
+ <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
 
 Welcome to my GitHub profile! I'm a dedicated developer with a strong passion for coding and a knack for finding innovative solutions. I love exploring new technologies and frameworks to create cutting-edge applications.
 
@@ -18,6 +22,7 @@ Ready to embark on this coding journey with me? huzaifanawaz367@gmail.com 💬<b
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LarsKhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)     &nbsp;&nbsp;&nbsp;&nbsp;   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LarsKhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+ <br />
  ![](https://github-readme-streak-stats.herokuapp.com/?user=LarsKhan&theme=dracula&hide_border=false)<br/>
 
 
