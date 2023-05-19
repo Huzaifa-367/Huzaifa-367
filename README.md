@@ -8,7 +8,7 @@
   <br />
 <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
-# 💫 About Me:
+#💫 About Me:
 <div align="center">Passionate developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> | Problem-solver 💡 | Lifelong learner 📚 </div>
 <br />
  
