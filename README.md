@@ -56,7 +56,7 @@ Ready to embark on this coding journey with me? huzaifanawaz367@gmail.com 💬<b
   ![](https://github-readme-stats.vercel.app/api?username=LarsKhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)     &nbsp;&nbsp;&nbsp;&nbsp;   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LarsKhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
  <br />
 
- ![](https://github-readme-streak-stats.herokuapp.com/?user=LarsKhan&theme=dracula&hide_border=false)  
+ ![](https://readmestats.999857.xyz/?user=LarsKhan&theme=dracula&hide_border=false)  
 <br />
 <br />
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=LarsKhan&theme=dracula&hide_border=false"/>
