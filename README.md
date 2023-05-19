@@ -33,4 +33,14 @@ Ready to embark on this coding journey with me? huzaifanawaz367@gmail.com<br>�
 ---
 [![](https://visitcount.itsvg.in/api?id=LarsKhan&icon=0&color=11)](https://visitcount.itsvg.in)
 
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/Zhenye-Na/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
