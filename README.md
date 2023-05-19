@@ -37,7 +37,7 @@ Ready to embark on this coding journey with me? huzaifanawaz367@gmail.com<br>�
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/Zhenye-Na/DA-RNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LarsKhan&repo=Dengue-Tracer-Api&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Dengue-Tracer-Api" />
 </a>
 
 <a href="https://github.com/Zhenye-Na/crnn-pytorch">
