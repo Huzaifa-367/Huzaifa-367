@@ -64,6 +64,7 @@ Ready to embark on this coding journey with me? huzaifanawaz367@gmail.com 💬<b
 ![](https://github-contributor-stats.vercel.app/api?username=LarsKhan&limit=5&theme=radical&combine_all_yearly_contributions=true)
  <!--img src="https://github-readme-streak-stats.herokuapp.com/graph?username=LarsKhan&theme=dracula&hide_border=false"/>
  <br/ -->
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=LarsKhan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
 
