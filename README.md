@@ -1,6 +1,15 @@
 # 💫 About Me:
-🌱 I’m currently learning : App Development in Flutter & Dart<br>2023 <br>Goals : Efficient in Flutter & Firebase<br>How to reach me : huzaifanawaz367@gmail.com<br>💬 Ask me about : Flutter
+Passionate developer 🚀 | Problem-solver 💡 | Lifelong learner 📚
 
+Welcome to my GitHub profile! I'm a dedicated developer with a strong passion for coding and a knack for finding innovative solutions. I love exploring new technologies and frameworks to create cutting-edge applications.
+
+Collaboration is key to my success. I thrive in team environments, leveraging collective intelligence to deliver exceptional results. Let's join forces and build something amazing together!
+
+When I'm not coding, I enjoy immersing myself in nature and indulging in creative hobbies. Finding balance fuels my creativity and keeps me motivated.
+
+Ready to embark on this coding journey with me? huzaifanawaz367@gmail.com<br>💬 Let's connect and create groundbreaking solutions that make a difference. 🌟💻
+
+#developer #coding #innovation #collaboration
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/M.Huzaifa367) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-huzaifa-h4w) 
