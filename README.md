@@ -1,5 +1,5 @@
 # 💫 About Me:
-<center>Passionate developer 🚀 | Problem-solver 💡 | Lifelong learner 📚 </center>
+<div align="center">Passionate developer 🚀 | Problem-solver 💡 | Lifelong learner 📚 </div>
 
 Welcome to my GitHub profile! I'm a dedicated developer with a strong passion for coding and a knack for finding innovative solutions. I love exploring new technologies and frameworks to create cutting-edge applications.
 
