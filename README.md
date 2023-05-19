@@ -60,8 +60,8 @@ Ready to embark on this coding journey with me? huzaifanawaz367@gmail.com 💬<b
  ![](https://readmestats.999857.xyz/api?user=LarsKhan&theme=dracula&hide_border=false)  
 <br />
 <br />
- <img src="https://readmestats.999857.xyz/api/graph?username=LarsKhan&theme=dracula&hide_border=false"/>
- <br/>
+ <!--<img src="https://readmestats.999857.xyz/api/graph?username=LarsKhan&theme=dracula&hide_border=false"/>
+ <br/-->
 
 
 
