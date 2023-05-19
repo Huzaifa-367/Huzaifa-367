@@ -33,6 +33,9 @@ Ready to embark on this coding journey with me? huzaifanawaz367@gmail.com<br>ðŸ’
 ---
 [![](https://visitcount.itsvg.in/api?id=LarsKhan&icon=0&color=11)](https://visitcount.itsvg.in)
 
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
 ![Visitor Count](https://profile-counter.glitch.me/LarsKhan/count.svg)
 
 
