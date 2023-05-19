@@ -53,13 +53,14 @@ Ready to embark on this coding journey with me? huzaifanawaz367@gmail.com 💬<b
 
 # 📊 GitHub Stats:
 
-  ![](https://readmestats.999857.xyz/api?username=LarsKhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)     &nbsp;&nbsp;&nbsp;&nbsp;   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LarsKhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+  ![](https://readmestats.999857.xyz/api?username=LarsKhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)     &nbsp;&nbsp;&nbsp;&nbsp;   
+  ![](https://readmestats.999857.xyz/api/top-langs/?username=LarsKhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
  <br />
 
- ![](https://readmestats.999857.xyz/?user=LarsKhan&theme=dracula&hide_border=false)  
+ ![](https://readmestats.999857.xyz/api?user=LarsKhan&theme=dracula&hide_border=false)  
 <br />
 <br />
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=LarsKhan&theme=dracula&hide_border=false"/>
+ <img src="https://readmestats.999857.xyz/graph?username=LarsKhan&theme=dracula&hide_border=false"/>
  <br/>
 
 
