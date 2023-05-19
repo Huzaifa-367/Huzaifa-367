@@ -26,9 +26,10 @@ Ready to embark on this coding journey with me? huzaifanawaz367@gmail.com 💬<b
 #developer #coding #innovation #collaboration
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/M.Huzaifa367) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-huzaifa-h4w) 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923202608044)
-[![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/users/lars750/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/M.Huzaifa367) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-huzaifa-h4w) 
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/+923202608044)
+[![Fiverr](https://img.shields.io/badge/fiverr-1DBF73.svg?logo=fiverr&logoColor=white)](https://fiverr.com/users/lars750/)
 
 
 
